@@ -27,4 +27,4 @@
 [![image](https://img.shields.io/badge/UpWork-19A463?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0101a6aba597d68908)
 [![image](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/477139)
  
-
+![](https://visitor-badge.glitch.me/badge?page_id=CodingTarik.CodingTarik)
