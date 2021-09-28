@@ -20,7 +20,7 @@
 <hr>
 
 ### 🎫 &nbsp;Contact me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tarik-azzouzi)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-azzouzi)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarik_1211)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xggTvK2)
 [![image](https://img.shields.io/badge/Fiverr-19A463?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/cyberta)
