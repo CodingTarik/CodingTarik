@@ -6,8 +6,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the Technische Universität Darmstadt.\
 🌱 &nbsp;I'm on track for learning more about Cyber Security and Software Development.\
-✍️ &nbsp;In my free time, I play guitar and do some mountainbiking.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
+✍️ &nbsp;In my free time, I learn guitar and do some mountainbiking.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
 
 <hr>
   <p align="center">
