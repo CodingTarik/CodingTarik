@@ -15,6 +15,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingTarik&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodingTarik&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="ovi" width="410" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingTarik)](https://github.com/CodingTarik/)
 <br><br><br><br><br>
 
 <hr>
