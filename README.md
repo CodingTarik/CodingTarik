@@ -1,13 +1,14 @@
 <h1 align="center">Hi , I'm Tarik Azzouzi aka CodingTarik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Cybersecurity+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the Technische Universität Darmstadt.\
-🌱 &nbsp;I'm on track for learning more about Cyber Security and Software Development.\
-✍️ &nbsp;In my free time, I learn guitar and do some mountainbiking.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
+
+💡  I have a passion for exploring emerging technologies and creating innovative software solutions and clever hacks.
+🎓  Currently, I am pursuing my studies in Computer Science at the Technische Universität Darmstadt.
+🌱  My primary focus is on expanding my knowledge in the fields of Cyber Security and Software Development. I am committed to staying updated with the latest advancements and industry best practices.
+✍️  During my leisure time, I immerse myself in learning the intricacies of playing the guitar and engaging in various sports activities to keep myself physically active.
+💬  I am always open to connecting with like-minded individuals who share a passion for technology. Whether you need consultation, seek a volunteer, or simply want to engage in interesting discussions, feel free to reach out to me.
 
 <hr>
   <p align="center">
@@ -15,7 +16,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingTarik&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=11" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodingTarik&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <hr>
 
@@ -25,7 +26,4 @@
 [![image](https://img.shields.io/badge/Fiverr-19A463?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/cyberta)
 [![image](https://img.shields.io/badge/UpWork-19A463?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0101a6aba597d68908)
 [![image](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/477139)
- 
-![](https://visitor-badge.glitch.me/badge?page_id=CodingTarik.CodingTarik)
 
-<!--- [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarik_1211) -->
