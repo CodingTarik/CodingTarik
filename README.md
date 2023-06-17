@@ -4,11 +4,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-💡  I have a passion for exploring emerging technologies and creating innovative software solutions and clever hacks.
-🎓  Currently, I am pursuing my studies in Computer Science at the Technische Universität Darmstadt.
-🌱  My primary focus is on expanding my knowledge in the fields of Cyber Security and Software Development. I am committed to staying updated with the latest advancements and industry best practices.
-✍️  During my leisure time, I immerse myself in learning the intricacies of playing the guitar and engaging in various sports activities to keep myself physically active.
-💬  I am always open to connecting with like-minded individuals who share a passion for technology. Whether you need consultation, seek a volunteer, or simply want to engage in interesting discussions, feel free to reach out to me.
+💡  I have a passion for exploring emerging technologies and creating innovative software solutions and clever hacks.<br>
+🎓  Currently, I am pursuing my studies in Computer Science at the Technische Universität Darmstadt.<br>
+🌱  My primary focus is on expanding my knowledge in the fields of Cyber Security and Software Development. I am committed to staying updated with the latest advancements and industry best practices.<br>
+✍️  During my leisure time, I immerse myself in learning the intricacies of playing the guitar and engaging in various sports activities to keep myself physically active.<br>
+💬  I am always open to connecting with like-minded individuals who share a passion for technology. Whether you need consultation, seek a volunteer, or simply want to engage in interesting discussions, feel free to reach out to me.<br>
 
 <hr>
   <p align="center">
