@@ -10,6 +10,16 @@ tarik@mainframe:~$ cat current_status.txt
 > 🤝 Looking for: Cool open-source projects, CTF teammates, and tech talks
 ```
 
+### 📡 `tarik@mainframe:~/blog$`
+
+Check out my latest posts, thoughts and tools over on my personal blog.
+
+<p align="left">
+  <a href="https://codingtarik.github.io">
+    <img src="https://img.shields.io/badge/Read_My_Blog-00FF99?style=for-the-badge&logo=hashnode&logoColor=black" alt="Blog" />
+  </a>
+</p>
+
 ### 🎫 &nbsp;Contact me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-azzouzi)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xggTvK2)
