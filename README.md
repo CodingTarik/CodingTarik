@@ -9,23 +9,6 @@ tarik@mainframe:~$ cat current_status.txt
 > 🎯 Focus: *Cybersecurity** and **Artificial Intelligence**. 
 > 🤝 Looking for: Cool open-source projects, CTF teammates, and tech talks
 ```
----
-
-### 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingTarik&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingTarik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
----
 
 ### 🎫 &nbsp;Contact me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-azzouzi)
