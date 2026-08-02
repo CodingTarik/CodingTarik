@@ -1,21 +1,31 @@
 <h1 align="center">Hi , I'm Tarik Azzouzi aka CodingTarik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Cybersecurity+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></p>
+---
+### 💻 `tarik@mainframe:~$ whoami`
 
-### 👨🏻‍💻 &nbsp;About Me
+```text
+tarik@mainframe:~$ cat current_status.txt
+> 🎓 Studying: M.Sc. Computer Science at @TU_Darmstadt
+> 🎯 Focus: *Cybersecurity** and **Artificial Intelligence**. 
+> 🤝 Looking for: Cool open-source projects, CTF teammates, and tech talks
+```
+---
 
-🎓  Currently, I am pursuing my studies in Computer Science at the Technische Universität Darmstadt.<br>
-🌱  My primary focus is on expanding my knowledge in the fields of Cyber Security and Software Development.<br>
-💬  I am always open to connecting with like-minded individuals who share a passion for technology. Whether you need consultation, seek a volunteer, or simply want to engage in interesting discussions, feel free to reach out to me.<br>
+### 📈 GitHub Stats & Contributions
 
-<hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingTarik&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=11" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodingTarik&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodingTarik&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingTarik&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=5" alt="Top Languages" />
+</p>
 
-<hr>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodingTarik/CodingTarik/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+---
 
 ### 🎫 &nbsp;Contact me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-azzouzi)
