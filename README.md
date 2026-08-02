@@ -16,7 +16,7 @@ Check out my latest posts, thoughts and tools over on my personal blog.
 
 <p align="left">
   <a href="https://codingtarik.github.io">
-    <img src="https://img.shields.io/badge/Read_My_Blog-00FF99?style=for-the-badge&logo=hashnode&logoColor=black" alt="Blog" />
+    <img src="https://img.shields.io/badge/Read_My_Blog-000000?style=for-the-badge&logo=hashnode&logoColor=00FF99&border=00FF99" alt="Blog" />
   </a>
 </p>
 
