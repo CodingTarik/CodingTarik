@@ -6,7 +6,7 @@
 ```text
 tarik@mainframe:~$ cat current_status.txt
 > 🎓 Studying: M.Sc. Computer Science at @TU_Darmstadt
-> 🎯 Focus: *Cybersecurity** and **Artificial Intelligence**. 
+> 🎯 Focus: Cybersecurity* and Artificial Intelligence. 
 > 🤝 Looking for: Cool open-source projects, CTF teammates, and tech talks
 ```
 
